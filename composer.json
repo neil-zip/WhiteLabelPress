@@ -1,35 +1,22 @@
 {
-	"name": "classicpress/classicpress",
-	"license": "GPL-2.0-or-later",
-	"description": "ClassicPress is open source software you can use to create a beautiful website, blog, or app.",
-	"homepage": "https://classicpress.net",
-	"keywords": [
-		"blog", "cms", "classicpress", "cp"
-	],
-	"support": {
-		"issues": "https://github.com/ClassicPress/ClassicPress"
-	},
-	"require": {
-		"php": ">=7.4"
-	},
-	"require-dev": {
-		"dealerdirect/phpcodesniffer-composer-installer": "1.0.0",
-		"wp-coding-standards/wpcs": "3.1.0",
-		"phpcompatibility/phpcompatibility-wp": "2.1.5",
-		"yoast/phpunit-polyfills": "3.0.0",
-		"phpunit/phpunit": "^9"
-	},
-	"config": {
-		"allow-plugins": {
-			"dealerdirect/phpcodesniffer-composer-installer": true
-		},
-		"process-timeout": 600
-	},
-	"scripts": {
-		"backport": "bin/backport-wp-commit.sh",
-		"phpcs": "vendor/bin/phpcs -n",
-		"phpcs-tests": "vendor/bin/phpcs -n tests",
-		"phpunit": "vendor/bin/phpunit",
-		"phpcompat": "vendor/bin/phpcs --standard=phpcompat.xml.dist"
-	}
+    "name": "classicpress/classicpress",
+    "description": "The CMS for Creators. Stable. Lightweight. Instantly Familiar. Also known as the WordPress fork.",
+    "keywords": [
+        "classicpress"
+    ],
+    "type": "wordpress-core",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://www.classicpress.net/",
+    "authors": [
+        {
+            "name": "ClassicPress Community",
+            "homepage": "https://www.classicpress.net/contributors/"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/ClassicPress/ClassicPress/issues"
+    },
+    "require": {
+        "johnpbloch/wordpress-core-installer": "2.0.0"
+    }
 }
