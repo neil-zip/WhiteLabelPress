@@ -13,4 +13,4 @@ git clone --depth 1 https://github.com/neil-zip/WhiteLabelPress
 ```
 
 ### Tech Support
-You can reach out https://threads.net/@gemba_workspace (WhiteLabel will be available on Gemba Workspaces soon)
+You can reach out https://threads.net/@gemba_workspace (WhiteLabel sites will be available on Gemba Workspace soon)
