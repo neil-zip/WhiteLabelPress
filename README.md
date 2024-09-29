@@ -5,6 +5,7 @@ WhiteLabel intents to give you complete independence and protection against any 
 
 
 ### Install
+After installing your LAMP/NGINX stack, you can clone the folder in your public directory:
 ```
 git clone https://github.com/neil-zip/WhiteLabelPress
 ```
