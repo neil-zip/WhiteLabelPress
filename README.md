@@ -1,4 +1,3 @@
-<a href="#"><img src="wp-admin/images/whitelabelpress-logo.png" height="63"></a>
 
 ## WhiteLabel / WhiteLabel Press
 WhiteLabel intents to decentralize plugin upgrades and more protection against any trademark claims while still **supporting major WordPress / ClassicPress plugins**.
