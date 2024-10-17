@@ -2,6 +2,8 @@
 We're currently forking ClassicPress and building the Web3 layer for it to download and manage plugins the decentralized way. ✨
 We launch at Halloween! 🎃
 
+Join us at <a href="https://discord.gg/KA94kvHq">Discord</a>
+
 ## What is WhiteLabelpress?
 WhiteLabelpress intents to decentralize plugin upgrades and more protection against any trademark claims while still **supporting major WordPress / ClassicPress plugins**.
 
